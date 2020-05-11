@@ -46,7 +46,7 @@ Upon recycling stream S7, the DesignSpec block that was used to determine Lpreli
 
 The following cost data (based on year 2018) was used in the cost analysis for this project.
 - - -
-![params](Screenshots/cost.png)
+
 - - -
 
 Aspen cost analysis results are expressed in 2011 dollar in all categories except for cost of raw materials and product sale, which are expressed in 2018 dollars. Consumer price indices for 2011 and 2018 are 224.9 and 250.0, respectively. The 2011 costs was adjusted to the 2019 dollars using the consumer price indices as follows:
